@@ -22,7 +22,7 @@ Skills: Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sojib-Mia )](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sojib-Mia &show_icons=true&count_private=true)  
+![GitHub stat 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sojib-Mia )  
 
